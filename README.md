@@ -9,7 +9,7 @@ Lade das Repo bei dir in ein Lokales Verzeichniss (Zb. C:/Temp)
    git clone https://github.com/rasemaier/HfAmBztIstNice.git
    ```
 
-### 2. In den Ordner HfAmBztIstNice wechseln
+### 2. In den Ordner *HfAmBztIstNice/Vorstellung/* wechseln
 
 ### 3. Neuen Ordner erstellen (Vorname_Nachname)
 
